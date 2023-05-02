@@ -1,0 +1,194 @@
+[
+    {
+    "id": 1,
+    "chef_name": "Li Ming",
+    "chef_picture": "https://example.com/li_ming.jpg",
+    "years_of_experience": 10,
+    "num_recipes": 150,
+    "likes": 5000,
+    "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+      "recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["chicken", "peanuts", "dried chili peppers", "scallions", "garlic"],
+        "instructions": ["1. Cut the chicken into bite-sized pieces.", "2. Mix together the sauce ingredients in a small bowl.", "3. Heat the oil in a wok or large skillet over high heat.", "4. Add the chicken and stir-fry for 2-3 minutes until golden brown.", "5. Add the peanuts, chili peppers, scallions, and garlic and stir-fry for another 1-2 minutes.", "6. Add the sauce to the wok and stir-fry for 1-2 minutes until the chicken is coated and the sauce has thickened.", "7. Serve hot with rice."],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sichuan Hot Pot",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["beef", "mushrooms", "tofu", "bean sprouts", "noodles"],
+        "instructions": ["1. Cut the beef and tofu into bite-sized pieces.", "2. Slice the mushrooms and set aside.", "3. Fill a hot pot with water and bring to a boil.", "4. Add the beef, mushrooms, and tofu to the hot pot and cook for 2-3 minutes.", "5. Add the bean sprouts and noodles and cook for another 1-2 minutes.", "6. Serve with your choice of dipping sauces."],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Peking Duck",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["duck", "pancakes", "hoisin sauce", "scallions", "cucumber"],
+        "instructions": ["1. Clean and season the duck with salt and pepper.", "2. Hang the duck to dry for several hours or overnight.", "3. Roast the duck in a preheated oven at 375°F for 45-60 minutes.", "4. Remove the duck from the oven and let it rest for 10 minutes.", "5. Slice the duck meat and skin into thin strips.", "6. Serve the duck with pancakes, hoisin sauce, scallions, and cucumber."],
+        "rating": 4.8
+      }
+    ]
+  },
+{
+    "id": 2,
+    "chef_name": "Li Ming",
+    "chef_picture": "https://example.com/li_ming.jpg",
+    "years_of_experience": 10,
+    "num_recipes": 150,
+    "likes": 5000,
+    "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+      "recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["chicken", "peanuts", "dried chili peppers", "scallions", "garlic"],
+        "instructions": ["1. Cut the chicken into bite-sized pieces.", "2. Mix together the sauce ingredients in a small bowl.", "3. Heat the oil in a wok or large skillet over high heat.", "4. Add the chicken and stir-fry for 2-3 minutes until golden brown.", "5. Add the peanuts, chili peppers, scallions, and garlic and stir-fry for another 1-2 minutes.", "6. Add the sauce to the wok and stir-fry for 1-2 minutes until the chicken is coated and the sauce has thickened.", "7. Serve hot with rice."],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sichuan Hot Pot",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["beef", "mushrooms", "tofu", "bean sprouts", "noodles"],
+        "instructions": ["1. Cut the beef and tofu into bite-sized pieces.", "2. Slice the mushrooms and set aside.", "3. Fill a hot pot with water and bring to a boil.", "4. Add the beef, mushrooms, and tofu to the hot pot and cook for 2-3 minutes.", "5. Add the bean sprouts and noodles and cook for another 1-2 minutes.", "6. Serve with your choice of dipping sauces."],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Peking Duck",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["duck", "pancakes", "hoisin sauce", "scallions", "cucumber"],
+        "instructions": ["1. Clean and season the duck with salt and pepper.", "2. Hang the duck to dry for several hours or overnight.", "3. Roast the duck in a preheated oven at 375°F for 45-60 minutes.", "4. Remove the duck from the oven and let it rest for 10 minutes.", "5. Slice the duck meat and skin into thin strips.", "6. Serve the duck with pancakes, hoisin sauce, scallions, and cucumber."],
+        "rating": 4.8
+      }
+    ]
+  },
+{
+    "id": 3,
+    "chef_name": "Li Ming",
+    "chef_picture": "https://example.com/li_ming.jpg",
+    "years_of_experience": 10,
+    "num_recipes": 150,
+    "likes": 5000,
+    "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+      "recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["chicken", "peanuts", "dried chili peppers", "scallions", "garlic"],
+        "instructions": ["1. Cut the chicken into bite-sized pieces.", "2. Mix together the sauce ingredients in a small bowl.", "3. Heat the oil in a wok or large skillet over high heat.", "4. Add the chicken and stir-fry for 2-3 minutes until golden brown.", "5. Add the peanuts, chili peppers, scallions, and garlic and stir-fry for another 1-2 minutes.", "6. Add the sauce to the wok and stir-fry for 1-2 minutes until the chicken is coated and the sauce has thickened.", "7. Serve hot with rice."],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sichuan Hot Pot",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["beef", "mushrooms", "tofu", "bean sprouts", "noodles"],
+        "instructions": ["1. Cut the beef and tofu into bite-sized pieces.", "2. Slice the mushrooms and set aside.", "3. Fill a hot pot with water and bring to a boil.", "4. Add the beef, mushrooms, and tofu to the hot pot and cook for 2-3 minutes.", "5. Add the bean sprouts and noodles and cook for another 1-2 minutes.", "6. Serve with your choice of dipping sauces."],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Peking Duck",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["duck", "pancakes", "hoisin sauce", "scallions", "cucumber"],
+        "instructions": ["1. Clean and season the duck with salt and pepper.", "2. Hang the duck to dry for several hours or overnight.", "3. Roast the duck in a preheated oven at 375°F for 45-60 minutes.", "4. Remove the duck from the oven and let it rest for 10 minutes.", "5. Slice the duck meat and skin into thin strips.", "6. Serve the duck with pancakes, hoisin sauce, scallions, and cucumber."],
+        "rating": 4.8
+      }
+    ]
+  },
+{
+    "id": 4,
+    "chef_name": "Li Ming",
+    "chef_picture": "https://example.com/li_ming.jpg",
+    "years_of_experience": 10,
+    "num_recipes": 150,
+    "likes": 5000,
+    "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+      "recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["chicken", "peanuts", "dried chili peppers", "scallions", "garlic"],
+        "instructions": ["1. Cut the chicken into bite-sized pieces.", "2. Mix together the sauce ingredients in a small bowl.", "3. Heat the oil in a wok or large skillet over high heat.", "4. Add the chicken and stir-fry for 2-3 minutes until golden brown.", "5. Add the peanuts, chili peppers, scallions, and garlic and stir-fry for another 1-2 minutes.", "6. Add the sauce to the wok and stir-fry for 1-2 minutes until the chicken is coated and the sauce has thickened.", "7. Serve hot with rice."],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sichuan Hot Pot",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["beef", "mushrooms", "tofu", "bean sprouts", "noodles"],
+        "instructions": ["1. Cut the beef and tofu into bite-sized pieces.", "2. Slice the mushrooms and set aside.", "3. Fill a hot pot with water and bring to a boil.", "4. Add the beef, mushrooms, and tofu to the hot pot and cook for 2-3 minutes.", "5. Add the bean sprouts and noodles and cook for another 1-2 minutes.", "6. Serve with your choice of dipping sauces."],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Peking Duck",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["duck", "pancakes", "hoisin sauce", "scallions", "cucumber"],
+        "instructions": ["1. Clean and season the duck with salt and pepper.", "2. Hang the duck to dry for several hours or overnight.", "3. Roast the duck in a preheated oven at 375°F for 45-60 minutes.", "4. Remove the duck from the oven and let it rest for 10 minutes.", "5. Slice the duck meat and skin into thin strips.", "6. Serve the duck with pancakes, hoisin sauce, scallions, and cucumber."],
+        "rating": 4.8
+      }
+    ]
+  },
+{
+    "id": 5,
+    "chef_name": "Li Ming",
+    "chef_picture": "https://example.com/li_ming.jpg",
+    "years_of_experience": 10,
+    "num_recipes": 150,
+    "likes": 5000,
+    "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+      "recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["chicken", "peanuts", "dried chili peppers", "scallions", "garlic"],
+        "instructions": ["1. Cut the chicken into bite-sized pieces.", "2. Mix together the sauce ingredients in a small bowl.", "3. Heat the oil in a wok or large skillet over high heat.", "4. Add the chicken and stir-fry for 2-3 minutes until golden brown.", "5. Add the peanuts, chili peppers, scallions, and garlic and stir-fry for another 1-2 minutes.", "6. Add the sauce to the wok and stir-fry for 1-2 minutes until the chicken is coated and the sauce has thickened.", "7. Serve hot with rice."],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sichuan Hot Pot",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["beef", "mushrooms", "tofu", "bean sprouts", "noodles"],
+        "instructions": ["1. Cut the beef and tofu into bite-sized pieces.", "2. Slice the mushrooms and set aside.", "3. Fill a hot pot with water and bring to a boil.", "4. Add the beef, mushrooms, and tofu to the hot pot and cook for 2-3 minutes.", "5. Add the bean sprouts and noodles and cook for another 1-2 minutes.", "6. Serve with your choice of dipping sauces."],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Peking Duck",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["duck", "pancakes", "hoisin sauce", "scallions", "cucumber"],
+        "instructions": ["1. Clean and season the duck with salt and pepper.", "2. Hang the duck to dry for several hours or overnight.", "3. Roast the duck in a preheated oven at 375°F for 45-60 minutes.", "4. Remove the duck from the oven and let it rest for 10 minutes.", "5. Slice the duck meat and skin into thin strips.", "6. Serve the duck with pancakes, hoisin sauce, scallions, and cucumber."],
+        "rating": 4.8
+      }
+    ]
+  },
+{
+    "id": 6,
+    "chef_name": "Li Ming",
+    "chef_picture": "https://example.com/li_ming.jpg",
+    "years_of_experience": 10,
+    "num_recipes": 150,
+    "likes": 5000,
+    "short_bio": "Li Ming is a master chef from Beijing with over 10 years of experience in traditional Chinese cuisine. He has won numerous awards for his innovative dishes and is known for his use of fresh, locally-sourced ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Kung Pao Chicken",
+      "recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["chicken", "peanuts", "dried chili peppers", "scallions", "garlic"],
+        "instructions": ["1. Cut the chicken into bite-sized pieces.", "2. Mix together the sauce ingredients in a small bowl.", "3. Heat the oil in a wok or large skillet over high heat.", "4. Add the chicken and stir-fry for 2-3 minutes until golden brown.", "5. Add the peanuts, chili peppers, scallions, and garlic and stir-fry for another 1-2 minutes.", "6. Add the sauce to the wok and stir-fry for 1-2 minutes until the chicken is coated and the sauce has thickened.", "7. Serve hot with rice."],
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sichuan Hot Pot",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["beef", "mushrooms", "tofu", "bean sprouts", "noodles"],
+        "instructions": ["1. Cut the beef and tofu into bite-sized pieces.", "2. Slice the mushrooms and set aside.", "3. Fill a hot pot with water and bring to a boil.", "4. Add the beef, mushrooms, and tofu to the hot pot and cook for 2-3 minutes.", "5. Add the bean sprouts and noodles and cook for another 1-2 minutes.", "6. Serve with your choice of dipping sauces."],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Peking Duck",
+"recipe_picture": "https://example.com/example.jpg",
+        "ingredients": ["duck", "pancakes", "hoisin sauce", "scallions", "cucumber"],
+        "instructions": ["1. Clean and season the duck with salt and pepper.", "2. Hang the duck to dry for several hours or overnight.", "3. Roast the duck in a preheated oven at 375°F for 45-60 minutes.", "4. Remove the duck from the oven and let it rest for 10 minutes.", "5. Slice the duck meat and skin into thin strips.", "6. Serve the duck with pancakes, hoisin sauce, scallions, and cucumber."],
+        "rating": 4.8
+      }
+    ]
+  }
+]
