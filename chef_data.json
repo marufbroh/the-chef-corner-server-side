@@ -2,7 +2,7 @@
   {
     "id": 1,
     "chef_name": "Li Ming",
-    "chef_picture": "https://example.com/li_ming.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_6873267.htm#query=chef%20picture&position=1&from_view=search&track=ais",
     "years_of_experience": 10,
     "num_recipes": 150,
     "likes": 5000,
@@ -10,7 +10,7 @@
     "recipes": [
       {
         "recipe_name": "Kung Pao Chicken",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "chicken",
           "peanuts",
@@ -31,7 +31,7 @@
       },
       {
         "recipe_name": "Sichuan Hot Pot",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": ["beef", "mushrooms", "tofu", "bean sprouts", "noodles"],
         "instructions": [
           "1. Cut the beef and tofu into bite-sized pieces.",
@@ -45,7 +45,7 @@
       },
       {
         "recipe_name": "Peking Duck",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "duck",
           "pancakes",
@@ -69,7 +69,7 @@
   {
     "id": 2,
     "chef_name": "Maria Rodriguez",
-    "chef_picture": "https://example.com/maria_rodriguez.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/portrait-smiling-chef-uniform_10676564.htm#query=chef%20picture&position=2&from_view=search&track=ais",
     "years_of_experience": 8,
     "num_recipes": 75,
     "likes": 3500,
@@ -77,7 +77,7 @@
     "recipes": [
       {
         "recipe_name": "Tacos al Pastor",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": ["pork", "pineapple", "onion", "cilantro", "lime"],
         "instructions": [
           "1. Marinate the pork with a mixture of chilies, spices, and pineapple juice.",
@@ -88,7 +88,7 @@
       },
       {
         "recipe_name": "Chiles Rellenos",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "poblano peppers",
           "cheese",
@@ -106,7 +106,7 @@
       },
       {
         "recipe_name": "Carne Asada Tacos",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "beef steak",
           "tortillas",
@@ -131,7 +131,7 @@
   {
     "id": 3,
     "chef_name": "Sven Gustafsson",
-    "chef_picture": "https://example.com/sven_gustafsson.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_9944091.htm#query=chef%20picture&position=4&from_view=search&track=ais",
     "years_of_experience": 12,
     "num_recipes": 90,
     "likes": 7000,
@@ -139,7 +139,7 @@
     "recipes": [
       {
         "recipe_name": "Swedish Meatballs",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": ["ground beef", "breadcrumbs", "egg", "onion", "cream"],
         "instructions": [
           "1. Mix the beef, breadcrumbs, egg, and onion together in a bowl.",
@@ -151,7 +151,7 @@
       },
       {
         "recipe_name": "Gravlax",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": ["salmon", "salt", "sugar", "dill"],
         "instructions": [
           "1. Mix together the salt, sugar, and dill.",
@@ -163,7 +163,7 @@
       },
       {
         "recipe_name": "Pico de Gallo",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "tomatoes",
           "onion",
@@ -187,7 +187,7 @@
   {
     "id": 4,
     "chef_name": "Maria Lopez",
-    "chef_picture": "https://example.com/maria_lopez.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/young-male-cook-wearing-chef-uniform-glasses-showing-with-hand-white-wall_13807191.htm#query=chef%20picture&position=26&from_view=search&track=ais",
     "years_of_experience": 8,
     "num_recipes": 90,
     "likes": 3000,
@@ -195,7 +195,7 @@
     "recipes": [
       {
         "recipe_name": "Tacos al Pastor",
-        "recipe_picture": "https://example.com/tacos_al_pastor.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "pork",
           "pineapple",
@@ -212,7 +212,7 @@
       },
       {
         "recipe_name": "Chiles Rellenos",
-        "recipe_picture": "https://example.com/chiles_rellenos.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "poblano peppers",
           "ground beef",
@@ -231,7 +231,7 @@
       },
       {
         "recipe_name": "Chiles Rellenos",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "poblano peppers",
           "cheese",
@@ -257,8 +257,8 @@
 
   {
     "id": 5,
-    "chef_name": "Li Ming",
-    "chef_picture": "https://example.com/li_ming.jpg",
+    "chef_name": "Li Ping",
+    "chef_picture": "https://www.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_9944138.htm#query=chef%20picture&position=30&from_view=search&track=ais",
     "years_of_experience": 10,
     "num_recipes": 150,
     "likes": 5000,
@@ -266,7 +266,7 @@
     "recipes": [
       {
         "recipe_name": "Mapo Tofu",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "tofu",
           "ground pork",
@@ -286,7 +286,7 @@
       },
       {
         "recipe_name": "Yangzhou Fried Rice",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": ["rice", "shrimp", "ham", "eggs", "carrots", "peas"],
         "instructions": [
           "1. Cook the rice according to package instructions and set aside.",
@@ -300,7 +300,7 @@
       },
       {
         "recipe_name": "Spaghetti alla Carbonara",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "spaghetti",
           "pancetta",
@@ -324,7 +324,7 @@
   {
     "id": 6,
     "chef_name": "Sofia Gomez",
-    "chef_picture": "https://example.com/sofia_gomez.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_27210389.htm#query=chef%20picture&position=31&from_view=search&track=ais",
     "years_of_experience": 8,
     "num_recipes": 75,
     "likes": 2300,
@@ -332,7 +332,7 @@
     "recipes": [
       {
         "recipe_name": "Chiles en Nogada",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "poblano peppers",
           "ground beef",
@@ -354,7 +354,7 @@
       },
       {
         "recipe_name": "Mole Negro",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "chicken",
           "spices",
@@ -375,7 +375,7 @@
       },
       {
         "recipe_name": "Margherita Pizza",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "pizza dough",
           "tomato sauce",
@@ -397,7 +397,7 @@
   {
     "id": 7,
     "chef_name": "Antonio Rossi",
-    "chef_picture": "https://example.com/antonio_rossi.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_6607022.htm#query=chef%20picture&position=32&from_view=search&track=ais",
     "years_of_experience": 15,
     "num_recipes": 200,
     "likes": 6000,
@@ -405,7 +405,7 @@
     "recipes": [
       {
         "recipe_name": "Margherita Pizza",
-        "recipe_picture": "https://example.com/margherita_pizza.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "pizza dough",
           "tomato sauce",
@@ -424,7 +424,7 @@
       },
       {
         "recipe_name": "Spaghetti Carbonara",
-        "recipe_picture": "https://example.com/spaghetti_carbonara.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "spaghetti",
           "bacon",
@@ -444,7 +444,7 @@
       },
       {
         "recipe_name": "Tiramisu",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "ladyfingers",
           "espresso",
@@ -469,7 +469,7 @@
   {
     "id": 8,
     "chef_name": "Rita Patel",
-    "chef_picture": "https://example.com/rita_patel.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_26099634.htm#query=chef%20picture&position=40&from_view=search&track=ais",
     "years_of_experience": 8,
     "num_recipes": 120,
     "likes": 4200,
@@ -477,7 +477,7 @@
     "recipes": [
       {
         "recipe_name": "Chicken Tikka Masala",
-        "recipe_picture": "https://example.com/chicken_tikka.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": ["chicken", "yogurt", "tomato sauce", "spices", "cream"],
         "instructions": [
           "1. Marinate the chicken in yogurt and spices for at least 1 hour.",
@@ -490,7 +490,7 @@
       },
       {
         "recipe_name": "Palak Paneer",
-        "recipe_picture": "https://example.com/palak_paneer.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": ["spinach", "paneer", "spices", "cream", "onions"],
         "instructions": [
           "1. Blanch the spinach in boiling water for 1-2 minutes.",
@@ -504,7 +504,7 @@
       },
       {
         "recipe_name": "Masala Chai",
-        "recipe_picture": "https://example.com/masala_chai.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": ["tea leaves", "spices", "milk", "sugar", "water"],
         "instructions": [
           "1. Boil water and add the tea leaves and spices.",
@@ -520,7 +520,7 @@
   {
     "id": 9,
     "chef_name": "Maria Sanchez",
-    "chef_picture": "https://example.com/maria_sanchez.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/chef-holding-pan-with-fire-inside_6901076.htm#query=chef%20picture&position=45&from_view=search&track=ais",
     "years_of_experience": 8,
     "num_recipes": 100,
     "likes": 4000,
@@ -528,7 +528,7 @@
     "recipes": [
       {
         "recipe_name": "Chicken Enchiladas",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "chicken",
           "corn tortillas",
@@ -550,7 +550,7 @@
       },
       {
         "recipe_name": "Chiles Rellenos",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "poblano peppers",
           "ground beef",
@@ -569,7 +569,7 @@
       },
       {
         "recipe_name": "Chiles Rellenos",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "poblano peppers",
           "ground beef",
@@ -594,7 +594,7 @@
   {
     "id": 10,
     "chef_name": "Juan Perez",
-    "chef_picture": "https://example.com/juan_perez.jpg",
+    "chef_picture": "https://www.freepik.com/free-photo/bearded-master-chef-prepares-fresh-salmon_17080867.htm#page=2&query=chef%20picture&position=28&from_view=search&track=ais",
     "years_of_experience": 15,
     "num_recipes": 200,
     "likes": 6000,
@@ -602,7 +602,7 @@
     "recipes": [
       {
         "recipe_name": "Tacos al Pastor",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "pork shoulder",
           "pineapple",
@@ -621,7 +621,7 @@
       },
       {
         "recipe_name": "Chiles Rellenos",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "poblano peppers",
           "ground beef",
@@ -640,7 +640,7 @@
       },
       {
         "recipe_name": "Sushi Rolls",
-        "recipe_picture": "https://example.com/example.jpg",
+        "recipe_picture": "https://www.freepik.com/free-photo/pasta-colored-farfalle-salad-with-tomatoes-mozzarella-basil_7122553.htm#query=recipe&position=2&from_view=search&track=sph",
         "ingredients": [
           "sushi rice",
           "nori sheets",
